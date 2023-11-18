@@ -1,1 +1,14 @@
-demonlist test
+{
+  "list": [
+    {"id": 1,"name": "test","difficulty": "Extreme Demon","points": 10},
+    {"id": 2,"name": "test2","difficulty": "Insane Demon","points": 9},
+    {"id": 1,"name": "test","difficulty": "Extreme Demon","points": 8},
+    {"id": 1,"name": "test","difficulty": "Extreme Demon","points": 7},
+    {"id": 1,"name": "test","difficulty": "Extreme Demon","points": 6},
+    {"id": 1,"name": "test","difficulty": "Extreme Demon","points": 5},
+    {"id": 1,"name": "test","difficulty": "Extreme Demon","points": 4},
+    {"id": 1,"name": "test","difficulty": "Extreme Demon","points": 3},
+    {"id": 1,"name": "test","difficulty": "Extreme Demon","points": 2},
+    {"id": 1,"name": "test","difficulty": "Extreme Demon","points": 1}
+  ]
+}
