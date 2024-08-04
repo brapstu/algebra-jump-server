@@ -1,14 +1,14 @@
 {
   "list": [
-    {"id": 62,"name": "Pickle","difficulty": "The hardest challenge in the game. Consists with pixel-perfect cube jumps with a nerve-ending and super tight ship towards the end.","points": 10},
-    {"id": 57,"name": "Bary Clear","difficulty": "Notorious for its really hard first click. Consists with really tight ship gaps and a hard last cube jump.","points": 9},
-    {"id": 52,"name": "Foop Challenge","difficulty": "Starts off with a really tight ship part. Moderate cube timings and a straightfly at the end.","points": 8},
-    {"id": 61,"name": "Bonkers v2","difficulty": "Known for having hard-to-see clicks. Very short and the click pattern has a consistent rhythm to it.","points": 7},
-    {"id": 72,"name": "memory","difficulty": "The first level with a focus on memory. Has a couple of orb timings as well.","points": 6},
-    {"id": 58,"name": "i like algebra","difficulty": "Starts off with a really hard first jump. Timings get easier and ends with a fairly easy ship gap.","points": 5},
-    {"id": 54,"name": "xblade challenge","difficulty": "Starts off with a tight ship gap, followed by a bunch of cube timings.","points": 4},
-    {"id": 50,"name": "Hell Temple","difficulty": "Decently hard cube jumps, ending off with a small ship section.","points": 3},
-    {"id": 103,"name": "unnamed","difficulty": "Not particularly difficult, but has a couple of transitions and awkward cube timings.","points": 2},
-    {"id": 42,"name": "Temple of Fire","difficulty": "A great beginner level for those new. Has some hard cube clicks and some memory sprinkled in.","points": 1}
+    {"id": 312,"name": "Mathaclysm","difficulty": "","points": 10},
+    {"id": 62,"name": "Bonkers Redux","difficulty": "The 2nd hardest challenge in the game. Consists with pixel-perfect cube jumps with a nerve-ending and super tight ship towards the end.","points": 9},
+    {"id": 57,"name": "bary clear","difficulty": "A very short old top 1 notorious for its nearly impossible first click. It has really tight straightfly and ends with some hard cube timings.","points": 8},
+    {"id": 544,"name": "Purgatory","difficulty": "The hardest memory level and the hardest 1.4 level. Be ready for the last UFO.","points": 7},
+    {"id": 231,"name": "Flickering Lights","difficulty": "Fake ufo gameplay and a memory cube maze. Woah!","points": 6},
+    {"id": 354,"name": "White Court","difficulty": "Well rounded level. I love this.","points": 5},
+    {"id": 323,"name": "Memory 2","difficulty": "A sequel to foop's original 'memory'. The gameplay can get a bit quirky, so be prepared if you want to go for this.","points": 4},
+    {"id": 229,"name": "Box Factory","difficulty": "A well rounded level. It's quite long.","points": 3},
+    {"id": 406,"name": "devil latin","difficulty": "Get readyt for quadruple spikes and straight-fly.","points": 2},
+    {"id": 543,"name": "Crystal Caverns v2","difficulty": "A sequel to Crystal Caverns. Very spam heavy. (thx noobnoobastico for list)","points": 1}
   ]
 }
