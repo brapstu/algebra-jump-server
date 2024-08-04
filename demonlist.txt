@@ -1,6 +1,6 @@
 {
   "list": [
-    {"id": 62,"name": Pickles Redux","difficulty": "The hardest challenge in the game. Consists with pixel-perfect cube jumps with a nerve-ending and super tight ship towards the end.","points": 10},
+    {"id": 62,"name": "Pickles Redux","difficulty": "The hardest challenge in the game. Consists with pixel-perfect cube jumps with a nerve-ending and super tight ship towards the end.","points": 10},
     {"id": 57,"name": "Bary Clear","difficulty": "Notorious for its really hard first click. Consists with really tight ship gaps and a hard last cube jump.","points": 9},
     {"id": 52,"name": "Foop Challenge","difficulty": "Starts off with a really tight ship part. Moderate cube timings and a straightfly at the end.","points": 8},
     {"id": 61,"name": "Bonkers v2","difficulty": "Known for having hard-to-see clicks. Very short and the click pattern has a consistent rhythm to it.","points": 7},
