@@ -1,6 +1,6 @@
 {
   "list": [
-    {"id": 312,"name": "Mathaclysm","difficulty": "","points": 10},
+    {"id": 312,"name": "Mathaclysm","difficulty": "It's top one for a reason.","points": 10},
     {"id": 62,"name": "Bonkers Redux","difficulty": "The 2nd hardest challenge in the game. Consists with pixel-perfect cube jumps with a nerve-ending and super tight ship towards the end.","points": 9},
     {"id": 57,"name": "bary clear","difficulty": "A very short old top 1 notorious for its nearly impossible first click. It has really tight straightfly and ends with some hard cube timings.","points": 8},
     {"id": 544,"name": "Purgatory","difficulty": "The hardest memory level and the hardest 1.4 level. Be ready for the last UFO.","points": 7},
