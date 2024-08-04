@@ -8,7 +8,7 @@
     {"id": 354,"name": "White Court","difficulty": "Well rounded level. I love this.","points": 5},
     {"id": 323,"name": "Memory 2","difficulty": "A sequel to foop's original 'memory'. The gameplay can get a bit quirky, so be prepared if you want to go for this.","points": 4},
     {"id": 229,"name": "Box Factory","difficulty": "A well rounded level. It's quite long.","points": 3},
-    {"id": 406,"name": "devil latin","difficulty": "Get readyt for quadruple spikes and straight-fly.","points": 2},
+    {"id": 406,"name": "devil latin","difficulty": "Get ready for quadruple spikes and straight-fly.","points": 2},
     {"id": 543,"name": "Crystal Caverns v2","difficulty": "A sequel to Crystal Caverns. Very spam heavy. (thx noobnoobastico for list)","points": 1}
   ]
 }
